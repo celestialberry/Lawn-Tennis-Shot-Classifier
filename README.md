@@ -1,4 +1,4 @@
-# Lawn Tennis Shot Classification
+# Tennis Shot Classification
 
 ## Description
 This project focuses on the classification of lawn tennis shots using machine learning techniques. We employ a hybrid model combining Long Short-Term Memory (LSTM) and Convolutional Neural Networks (CNN) to achieve accurate shot classification. The model is trained on a dataset of tennis videos and is capable of distinguishing between different types of shots.
@@ -19,7 +19,7 @@ This project focuses on the classification of lawn tennis shots using machine le
 To get started with this project, follow these steps:
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/celestialberry/tennis-shot-classification.git
+   git clone https://github.com/celestialberry/Tennis-Shot-Classification.git
    
    cd tennis-shot-classification
    ```
